@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>cscredhat个人博客</title>
+  
+  <subtitle>你大爷还是你大爷</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://cscredhat.site/"/>
+  <updated>2018-06-05T07:24:56.455Z</updated>
+  <id>http://cscredhat.site/</id>
+  
+  <author>
+    <name>cscredhat</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://cscredhat.site/2018/06/05/Hello-World/"/>
+    <id>http://cscredhat.site/2018/06/05/Hello-World/</id>
+    <published>2018-06-05T02:01:10.041Z</published>
+    <updated>2018-06-05T07:24:56.455Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/assets/travel2.jpg" alt="hello world"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/assets/travel2.jpg&quot; alt=&quot;hello world&quot;&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="travel" scheme="http://cscredhat.site/categories/%E6%97%85%E8%A1%8C/"/>
+    
+    
+      <category term="life" scheme="http://cscredhat.site/tags/life/"/>
+    
+      <category term="travel" scheme="http://cscredhat.site/tags/travel/"/>
+    
+  </entry>
+  
+</feed>
