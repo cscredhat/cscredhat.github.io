@@ -1,1 +1,1 @@
-<div align=center>![blog](assets/site.png)
+![blog](assets/site.png)
