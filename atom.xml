@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>cscredhat个人博客</title>
+  <title>cscredhat的个人博客</title>
   
   <subtitle>你大爷还是你大爷</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://cscredhat.site/"/>
-  <updated>2018-06-05T07:24:56.455Z</updated>
+  <updated>2018-06-06T00:59:00.404Z</updated>
   <id>http://cscredhat.site/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://cscredhat.site/2018/06/05/Hello-World/"/>
-    <id>http://cscredhat.site/2018/06/05/Hello-World/</id>
-    <published>2018-06-05T02:01:10.041Z</published>
-    <updated>2018-06-05T07:24:56.455Z</updated>
+    <link href="http://cscredhat.site/2018/03/17/Hello-World/"/>
+    <id>http://cscredhat.site/2018/03/17/Hello-World/</id>
+    <published>2018-03-17T09:17:17.000Z</published>
+    <updated>2018-06-06T00:59:00.404Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/assets/travel2.jpg" alt="hello world"></p>]]></content>
     
